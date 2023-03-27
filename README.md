@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-My name is Laura and I am a PhD candidate in the University of Limerick. I am interested in understanding deep learning models. 
+My name is Laura and I am a ML PhD candidate in the University of Limerick. I am interested in understanding deep learning models. 
+
+Personal website: [lomahony](https://lomahony.github.io/)
 
 📫 lauraomahony999@gmail.com
 
