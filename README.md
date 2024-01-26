@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Laura and I am a PhD candidate in the University of Limerick. 
+My name is Laura and I am a PhD candidate interested in all things ML. 
 
 Personal website: [lomahony](https://lomahony.github.io/)
 
