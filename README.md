@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 🌞 
 
 My name is Laura and I am a PhD candidate interested in all things ML. 
 
